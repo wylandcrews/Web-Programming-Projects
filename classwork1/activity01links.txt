@@ -1,0 +1,22 @@
+https://codd.cs.gsu.edu/~wcrews2/activity01/tab_ex1.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/tab_ex2.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/tab_ex3.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/tab_ex4.html
+
+https://codd.cs.gsu.edu/~wcrews2/activity01/adv_tab1.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/adv_tab2.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/adv_tab3.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/adv_tab4.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/adv_tab5.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/adv_tab6.html
+https://codd.cs.gsu.edu/~wcrews2/activity01/adv_tab7.html
+
+**NOTE: Per prompt, Activity #2 on page 6 of the prompt does not have save instructions.
+**Therefore, the corresponding file has been saved as activity2.html
+
+https://codd.cs.gsu.edu/~wcrews2/activity01/activity2.html
+
+**NOTE: No save instructions were provided with Activity 6.
+**Therefore, the corresponding file has been saved as activity6.html
+
+https://codd.cs.gsu.edu/~wcrews2/activity01/activity6.html
