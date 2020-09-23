@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<!--Web Programming Fall 2020-->
+<!--Author: Wyland Crews-->
+<!--Date: 09/23/2020-->
+<!--Validated: Yes, validator.w3.org-->
+
+<html lang = "en">
+
+<head>
+<meta charset = "UTF-8">
+<link rel = "stylesheet" href = "exercise3.css">
+<title>CW 02</title>
+
+<!--Embedded sheet for Exercise 3-->
+<style>
+	h1 {
+		color: red;
+		margin-left: 2cm;
+	}
+
+	h2 {
+		color: red;
+		margin-left: 4cm;
+	}
+
+	p {
+		text-indent: 2cm;
+		color: darkred;
+		margin-left: 6cm;
+	}
+</style>	
+	
+</head>
+
+<body>
+<h1>CW 02 - Working with CSS</h1>
+
+<h2>Exercise 1</h2>
+<p style = "text-indent: 2cm; color: darkred;">
+	This paragraph has been formatted using the in-line style command.
+</p>
+<p>
+	This paragraph has not been formatted using the in-line style command.
+</p>
+
+<h2>Exercise 2</h2>
+<p>
+	There are 4 errors in the code provided. First, the style tag has an extra space in it, showing sty le.<br>
+	The second error can be seen in the font-family rule: the closing " for times new roman is missing.<br>
+	The third error can be seen in the margin rule for h1, h2, and h3. The - between margin and left is missing.<br>
+	The fourth error can be seen immediately after the third error. There is a ; missing after 2cm.<br>
+</p>
+
+<h2>Exercise 3</h2>
+<p>
+	Please view the source code for the embedded style sheet.<br>
+	The linked style sheet can be seen <A href = "exercise3.css">here</A>.<br>	
+</p>
+
+<h2>Exercise 4 & 5</h2>
+<p>
+	Please view the external stylesheet <A href = "exercise4.css">here</A>.<br>
+	NOTE: Exercise 4 only provided the restrictions (i.e. using h1, h2, and p only) for the code written for Exercise 5.<br>
+	Therefore, there is no separate submission for Exercise 4.
+</p>
+
+<h2>Exercise 6</h2>
+<p>
+	1. Teachers can be given a template for their own HTML page so that any changes specific to their class can be made without interfering with the shared structure of the website.<br>
+	   Style will be maintained and uniform through the use of an external stylesheet, which the teachers will not require access to.<br>
+	   Control over the stylesheet and other important files, such as the home page, will be delegated to an administrative staff member.<br>
+	2. As stated in my response to prompt #1, teachers will be given a template for their own HTML page to implement informational changes specific to their class.<br>
+	   A single external stylesheet will be used to style the website. The teachers will not have access to this file. This single stylesheet will maintain the uniformity of the website.<br>
+	   Since this stylesheet will be external, any changes made to the stylesheet can be applied throughout the website without any additional effort from teachers.<br>
+	   Also, any changes made by the teachers to their own HTML file will not impact or alter the external stylesheet.<br>
+	3. Please find the list of ten or more HTML tags and classes that may be used for the website below.
+</p>
+<ol>
+	<li> table.assignments : a class for a table to show when assignments are due</li>
+	<li> table.exams : a class for a table to show exam dates and times</li>
+	<li> table.times : a class for a table to show class times</li>
+	<li> table.subjects : a class for a table to show subjects taught; syllabi will be included in this table</li>
+	<li> table.teachers : a class for a table that shows a directory of teachers with their contact information</li>
+	<li> body.(subject) : i.e. body.history; a class to style the body for each subject ; choices for background color and font color belong here</li>
+	<li> h1.(subject) : a class to style the h1 element for each subject ; choices for font family and weight belong here</li>
+	<li> p.(subject) : a class to style the p element for each subject ; choices for font family and weight belong here to differentiate between a paragraph and a header</li>
+	<li> link : links should be styled in the external stylesheet to ensure uniformity across the website ; NOTE: these will not conflict with background color as teachers have no control over this sheet</li>
+	<li> ul, ol: lists (such as those for course expectations) should be styled in the external stylesheet to ensure uniformity across the website</li>
+</ol>
+<p>
+	4. Considerations for the CSS code to implement these stylistic requirements are as follows:
+</p>
+<ul>
+	<li> The table classes will be universal, meaning they will look the same between departments.</li>
+	<li> The body, header, and paragraph elements will differ between departments.</li>
+	<li> This means that a separate class will be created for each element for each department</li>
+	<li> The style for links and lists will be universal, meaning they will look the same between departments.</li>
+	<li> Teachers within each department will need to decide how they want the departmental style to look before the CSS code can be written.</li>
+</ul>
+<h2>NOTE: For Exercise 6, no CSS stylesheet or HTML file was created because the prompt only asks for considerations and an explanantion of the process, not the actual code.</h2>	
+</body>
+
+</html>

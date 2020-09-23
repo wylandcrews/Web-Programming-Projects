@@ -1,0 +1,57 @@
+/*
+Web Programming Fall 2020
+Author: Wyland Crews
+Date: 09/23/2020
+Validated: Yes, http://jigsaw.w3.org/css-validator/validator
+*/
+
+body {
+	background-color: chocolate;
+}
+
+h1.artist {
+	font-size: 14pt;
+	font-family: "Arial";
+	font-weight: bold;
+	color: khaki;
+}
+
+h1.songtitle {
+	font-size: 14pt;
+	font-family: "Arial";
+	font-weight: normal;
+	color: khaki;
+}
+
+h1.album {
+	font-size: 12pt;
+	font-family: "Arial";
+	font-weight: normal;
+	color: khaki;
+}	
+
+h2.year {
+	font-size: 12pt;
+	font-family: "Arial";
+	font-weight: bold;
+	color: ivory;
+}
+
+p.verse {
+	font-size: 14pt;
+	font-family: "Trebuchet MS";
+	font-weight: bold;
+	color: gold;
+	margin-left: 2cm;
+	margin-right: 2cm;
+}
+
+p.chorus {
+	font-size: 14pt;
+	font-family: "Trebuchet MS";
+	font-weight: bold;
+	font-style: italic;
+	color: gold;
+	margin-left: 4cm;
+	margin-right: 4cm;
+}								
