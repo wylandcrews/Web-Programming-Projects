@@ -1,0 +1,4 @@
+CW 02 Links
+https://codd.cs.gsu.edu/~wcrews2/classwork2/cw02.html
+https://codd.cs.gsu.edu/~wcrews2/classwork2/exercise3.css
+https://codd.cs.gsu.edu/~wcrews2/classwork2/exercise4.css
