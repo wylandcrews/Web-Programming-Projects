@@ -1,0 +1,55 @@
+/*
+Web Programming Fall 2020
+Author: Wyland Crews
+Date: 09/21/2020
+Validated: Yes through website in guideline #3, no error found
+*/
+
+/* There are at least 5 rules present, satisfying guideline #2 */
+body {
+	font-family: sans-serif;
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-color:#25272A;
+	color: white;
+	text-align: center;
+}
+h3 {
+	text-align: left;
+	font-style: italic;
+}
+
+ul {
+	text-align: left;
+}
+
+a:link { color: blue; }
+a:visited { color: orange; }
+a:hover { color: green; }
+
+table, th, td {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+tr:nth-child(even) {
+	background-color: gray;
+	color: black;
+}
+
+tr:nth-child(odd) {
+	background-color: white;
+	color: black;
+}
+
+div {
+	color: #00BFFF;
+	font-style: italic;
+	text-indent: 20px;
+	text-align: left;
+}	
+
+span {
+	color: red;
+}	
